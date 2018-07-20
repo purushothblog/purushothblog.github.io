@@ -1,12 +1,11 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 <table>
 	<tr>
 		<td width="300" align="center">
-<img src="{{ site.baseurl }}/assets/img/icon.jpg" alt="avatar" width="300" height="200" ></td>
+<img src="assets/img/icon.jpg" alt="avatar" width="300" height="200" ></td>
 <td>
 	<p><b>Intro:</b></p>
 	<p>
