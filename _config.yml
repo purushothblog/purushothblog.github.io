@@ -17,7 +17,11 @@ title: Purushoth's Paradise
 email: pruzoth@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   You are at Purushoth's Paradise. He blogs about banking, technologies, travel blogs and something nasty!.
+<<<<<<< HEAD
 baseurl: "" # the subpath of your site, e.g. /blog
+=======
+baseurl: "/purushoth" # the subpath of your site, e.g. /blog
+>>>>>>> ae28bcf24cf5a5898a285e43ccf1def9b9e37f29
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pruzoth
 github_username:  pruzoth
@@ -28,6 +32,30 @@ theme: minima
 plugins:
   - jekyll-feed
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "projects"
+      type: "pages"
+    values:
+      layout: "default" 
+  - 
+    scope:
+      path: "assets/img"
+    values:
+      image: true
+
+#defaults:
+#  - scope:
+#      path: "assets/img"
+#    values:
+#      image: true
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
