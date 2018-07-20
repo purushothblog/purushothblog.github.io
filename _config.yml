@@ -32,8 +32,16 @@ defaults:
   -
     scope:
       path: ""
+      type: "posts"
     values:
-      layout: "post"
+      layout: "default"
+  -
+    scope:
+      path: "projects"
+      type: "pages"
+    values:
+      layout: "default" 
+
 #defaults:
 #  - scope:
 #      path: "assets/img"
