@@ -6,7 +6,7 @@ permalink: /about/
 <table>
 	<tr>
 		<td width="300" align="center">
-<img src="assets/img/icon.jpg" alt="avatar" width="300" height="200" ></td>
+<img src="../assets/img/icon.jpg" alt="avatar" width="300" height="200" ></td>
 <td>
 	<p><b>Intro:</b></p>
 	<p>
@@ -22,6 +22,7 @@ Alma mater: </b>Manipal University, Anna University</p>
 
 <p><b>Hobbies: </b>Travelling, Trekking, PC Gaming, Book Reading
 </p>
+
 </td>
 </tr>
 </table>
