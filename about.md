@@ -22,6 +22,9 @@ Alma mater: </b>Manipal University, Anna University</p>
 
 <p><b>Hobbies: </b>Travelling, Trekking, PC Gaming, Book Reading
 </p>
+{% for file in site.static_files %}
+  {{ file.path }}
+{% endfor %}
 
 </td>
 </tr>
