@@ -7,7 +7,7 @@ permalink: /about/
 
 
 <div width="100%" height="auto" align="center">
-<img src="../icon.jpg" alt="avatar" ></div>
+<img src="{{ page.url }}../icon.jpg" alt="avatar" ></div>
 <div width="100%" height="auto">
 	<br>
 	<p><b>Intro:</b></p>

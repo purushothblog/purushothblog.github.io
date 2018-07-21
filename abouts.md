@@ -6,7 +6,8 @@ permalink: /abouts/
 <table>
 	<tr>
 		<td width="300" align="center">
-<img src="../icon.jpg" alt="avatar" width="400" height="300" ></td>
+<img src="{{ page.url }}../icon.jpg" alt="avatar" width="400" height="300" ></td>
+{{ page.url }}
 <td>
 	<p><b>Intro:</b></p>
 	<p>
