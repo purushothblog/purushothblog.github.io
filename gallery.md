@@ -28,4 +28,6 @@ permalink: /gallery/
 	<tr>
 		<td>
 <h2 align="center"><marquee> <u>Stay tune for more fun!</u> </marquee></h2></td>
+
+
 </tr></table>

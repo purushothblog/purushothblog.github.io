@@ -20,7 +20,7 @@ I live in Tamil Nadu, India.
 M.Tech in Computer Science and Engineering and Post Graduation Diploma in Banking and Finance</p>
 <p><b>
 Alma mater: </b>Manipal University, Anna University</p>
-<p><b>Occupation:</b> Banker (Assistant manager)</p>
+<p><b>Profession:</b> Banker (Assistant manager)</p>
 
 <p><b>Hobbies: </b>Travelling, Trekking, PC Gaming, Book Reading
 </p>
