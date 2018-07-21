@@ -3,11 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
-<table>
-	<tr>
-		<td width="300" align="center">
-<img src="../icon.jpg" alt="avatar" width="400" height="300" ></td>
-<td>
+
+
+
+<div width="100%" height="auto" align="center">
+<img src="../about_pic.jpg" alt="avatar" ></div>
+<div width="100%" height="auto">
+	<br>
 	<p><b>Intro:</b></p>
 	<p>
 Hello, The Name's Purushothaman. I am tireless seeker of knowledge and occassional tourer and coincidently a banker!.
@@ -23,7 +25,4 @@ Alma mater: </b>Manipal University, Anna University</p>
 <p><b>Hobbies: </b>Travelling, Trekking, PC Gaming, Book Reading
 </p>
 
-
-</td>
-</tr>
-</table>
+</div>
