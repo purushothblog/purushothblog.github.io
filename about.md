@@ -6,7 +6,7 @@ permalink: /about/
 <table>
 	<tr>
 		<td width="300" align="center">
-<img src="https://raw.githubusercontent.com/purushothblog/purushoth/master/assets/img/icon.JPG" alt="avatar" width="400" height="300" ></td>
+<img src="/icon.jpg" alt="avatar" width="400" height="300" ></td>
 <td>
 	<p><b>Intro:</b></p>
 	<p>

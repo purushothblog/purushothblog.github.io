@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Trips
-permalink: /trips/
+title: Gallery
+permalink: /gallery/
 ---
 
 
-Glimpse of Tour Trips
+<center><h3><b><u>Diaries of My Life</u></b></h3></center>
 {% for file in site.static_files %}
 {% if file.image %}
 <div style = " margin: 5px;
@@ -18,7 +18,7 @@ Glimpse of Tour Trips
    <img src="../{{ file.path }}" alt="{{ file.name }}" width="230" height="150" >
 </a>
     <div style=" padding: 15px;
-    text-align: center" >{{ file.basename }}
+    text-align: center" ><b>{{ file.basename }}</b>
 </div>
 </div>
 {% endif %}
