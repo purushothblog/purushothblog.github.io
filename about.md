@@ -7,7 +7,7 @@ permalink: /about/
 
 
 <div width="100%" height="auto" align="center">
-<img src="{{ page.url }}../icon.jpg" alt="avatar" ></div>
+<img src="https://raw.githubusercontent.com/purushothblog/purushoth/gh-pages/about_pic.JPG" alt="avatar" ></div>
 <div width="100%" height="auto">
 	<br>
 	<p><b>Intro:</b></p>
