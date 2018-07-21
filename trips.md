@@ -5,7 +5,7 @@ permalink: /trips/
 ---
 
 
-Thumbs of my trips
+Glimpse of Tour Trips
 {% for file in site.static_files %}
 {% if file.image %}
 <div style = " margin: 5px;
@@ -18,13 +18,14 @@ Thumbs of my trips
    <img src="../{{ file.path }}" alt="{{ file.name }}" width="230" height="150" >
 </a>
     <div style=" padding: 15px;
-    text-align: center" >{{ file.name }}
+    text-align: center" >{{ file.basename }}
 </div>
 </div>
 {% endif %}
 {% endfor %}
-<div>
-	<br>
-<hr>
-<h2> Stay tune for more fun! </h2>
-</div>
+<br>
+<table>
+	<tr>
+		<td>
+<h2 align="center"><marquee> <u>Stay tune for more fun!</u> </marquee></h2></td>
+</tr></table>
