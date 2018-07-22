@@ -26,3 +26,6 @@ Alma mater: </b>Manipal University, Anna University</p>
 </p>
 
 </div>
+{% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}

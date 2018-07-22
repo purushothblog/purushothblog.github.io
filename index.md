@@ -4,3 +4,8 @@
 
 layout: home
 ---
+
+{% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+    
