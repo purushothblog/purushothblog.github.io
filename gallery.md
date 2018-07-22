@@ -11,18 +11,20 @@ permalink: /gallery/
 <div style = " margin: 5px;
     border: 1px solid #ccc;
     float: left;
-     width: auto;
-    height: auto;">
+     width: auto;">
+  
   <a target="_blank" href="{{ file.path }}">
 
-   <img src="../{{ file.path }}" alt="{{ file.name }}" width="230" height="150" >
+   <img src="../{{ file.path }}" alt="{{ file.name }}" width="230" height="150 ">
 </a>
     <div style=" padding: 15px;
     text-align: center" ><b>{{ file.basename }}</b>
-</div>
-</div>
+</div></div>
+
 {% endif %}
 {% endfor %}
+
+
 <br>
 <table>
 	<tr>
