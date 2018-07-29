@@ -6,6 +6,7 @@ permalink: /gallery/
 
 
 <center><h3><b><u>Diaries of My Life</u></b></h3></center>
+<center>
 {% for file in site.static_files %}
 {% if file.image %}
 <div style = " margin: 5px;
@@ -23,7 +24,7 @@ permalink: /gallery/
 
 {% endif %}
 {% endfor %}
-
+</center>
 
 <br>
 <table>
