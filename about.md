@@ -6,11 +6,8 @@ permalink: /about/
 
 
 
-<div width="50%" height="auto" align="left">
-<img src="https://raw.githubusercontent.com/purushothblog/purushoth/gh-pages/about_pic.JPG" alt="avatar" >
-<h4><b>Social Media:</b></h4>
-
-<a href="https://twitter.com/pruzoth?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @pruzoth</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div width="100%" height="auto" align="left">
+<img src="https://raw.githubusercontent.com/purushothblog/purushoth/gh-pages/about_pic.JPG" alt="avatar" ></div>
 <div width="100%" height="auto">
 	<br>
 	<p><b>Intro:</b></p>
@@ -29,6 +26,8 @@ Alma mater: </b>Manipal University, Anna University</p>
 </p>
 
 </div>
+<hr>
+Social Media:
 
-
+<a href="https://twitter.com/pruzoth?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @pruzoth</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
