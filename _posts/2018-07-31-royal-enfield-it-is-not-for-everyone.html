@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Royal Enfield - 5 Unique characteristics  
+title: Royal Enfield - 5 Unique characteristics 
+description: Royal Enfield - The name tells everything!
 comments: true
 date: '2018-07-31T00:25:00.001+05:30'
 author: Purushothaman Pachiappan
@@ -15,9 +16,8 @@ tags:
 - Bike Touring
 ---
 
-<h3><b><center>Royal Enfield - The name tells everything! </center></b></h3>
-<div><b> Tags: </b></div>
-<div> {% for tag in page.tags %} <u>{{ tag }}</u>{% endfor %}</div>
+<h3><b><center>{{ page.description }} </center></b></h3>
+<div> <b> Tags: </b>{% for tag in page.tags %} <u>{{ tag }}</u>{% endfor %}</div>
 <br>
 <div style="text-align: justify;
     text-justify: inter-word;">
