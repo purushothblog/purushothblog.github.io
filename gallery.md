@@ -2,16 +2,18 @@
 layout: page
 title: Gallery
 permalink: /gallery/
+description: Purushothaman Pachiappan, Gallery | Bike Tour
 ---
 
 
 <center><h3><b><u>Diaries of My Life</u></b></h3></center>
-<center>
+
 {% for file in site.static_files %}
 {% if file.image %}
 <div style = " margin: 5px;
     border: 1px solid #ccc;
     float: left;
+    overflow: auto;
      width: auto;">
   
   <a target="_blank" href="{{ file.path }}">
@@ -21,10 +23,9 @@ permalink: /gallery/
     <div style=" padding: 15px;
     text-align: center" ><b>{{ file.basename }}</b>
 </div></div>
-
 {% endif %}
 {% endfor %}
-</center>
+
 
 <br>
 <table>

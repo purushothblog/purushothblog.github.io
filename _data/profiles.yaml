@@ -1,0 +1,23 @@
+- name: "Twitter"
+  url: "https://twitter.com/dhilipsiva"
+  id: "twitter"
+
+- name: "AlgelList"
+  url: "https://angel.co/dhilipsiva"
+  id: "angellist"
+
+- name: "LinkedIn"
+  url: "http://linkedin.com/in/dhilipsiva"
+  id: "linkedin"
+
+- name: "Google+"
+  url: "https://google.com/+dhilipsivabijju"
+  id: "googleplus"
+
+- name: "Instagram"
+  url: "http://instagram.com/dhilipsiva"
+  id: "instagram"
+
+- name: "Youtube"
+  url: "https://www.youtube.com/user/dhilipsiva"
+  id: "youtube"

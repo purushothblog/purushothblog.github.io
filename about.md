@@ -2,11 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+description: "about me"
 ---
 
 
 
-<div width="100%" height="auto" align="left">
+<div width="100%" height="auto" align="center">
 <img src="https://raw.githubusercontent.com/purushothblog/purushoth/gh-pages/about_pic.JPG" alt="avatar" ></div>
 <div width="100%" height="auto">
 	<br>

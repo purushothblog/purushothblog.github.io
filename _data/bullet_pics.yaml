@@ -1,0 +1,20 @@
+- name: "bullet"
+  url: "/assets/bullet/bullet.jpg"
+
+- name: "bucephallus"
+  url: "/assets/bullet/bucephallus.jpg"
+
+- name: "bullet_num"
+  url: "/assets/bullet/bullet_num.jpg"
+
+- name: "bullet_ride"
+  url: "/assets/bullet/bullet_ride.jpg"
+
+- name: "ci_engine"
+  url: "/assets/bullet/ci_engine.jpg"
+
+- name: "Happy Riding"
+  url: "/assets/bullet/happy_riding.jpg"
+
+- name: "Neutral Lever"
+  url: "/assets/bullet/neutral_lever.jpg"
