@@ -2,7 +2,7 @@
 layout: page
 title: Gallery
 permalink: /gallery/
-description: Purushothaman Pachiappan, Gallery | Bike Tour
+description: Purushothaman Pachiappan Galleries | Bike Tour
 ---
 
 
