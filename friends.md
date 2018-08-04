@@ -11,7 +11,9 @@ description: Friends of Purushothaman Pachiappan
     float: left;
     overflow: auto;
      width: auto;">
-<img src= "../{{ dosth.url }}" alt= "{{ dosth.name }}" width="230" height="180" >
+     <a target="_blank" href="{{ dosth.url }}">
+<img src="../{{ dosth.url }}" alt="{{ dosth.name }}" width="230" height="150 ">
+</a>
  <div style=" padding: 15px;
     text-align: center" ><b>{{ dosth.name }}</b>
 </div>
