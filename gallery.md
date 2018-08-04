@@ -2,11 +2,9 @@
 layout: page
 title: Gallery
 permalink: /gallery/
-description: Purushothaman Pachiappan Galleries | Bike Tour
+description: Diaries of My Life
 ---
 
-
-<center><h3><b><u>Diaries of My Life</u></b></h3></center>
 
 {% for file in site.static_files %}
 {% if file.image %}

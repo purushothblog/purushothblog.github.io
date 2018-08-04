@@ -3,4 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+author: Purushothaman Pachiappan
+description: Hello, My name is Purushothaman Pachiappan. Currently, I live in Cochin, Kerala.
 ---

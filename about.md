@@ -2,7 +2,8 @@
 layout: page
 title: About
 permalink: /about/
-description: "about me"
+description: "About Me"
+author: "Purushothaman Pachiappan"
 ---
 
 <div style = " margin: 5px;
@@ -28,7 +29,7 @@ description: "about me"
 
 <div style = "     
     overflow: auto;
-     width: 330;
+     width: auto;
      padding: 15px;
      text-align: justify;
     text-justify: inter-word;">
@@ -50,6 +51,12 @@ Alma mater: </b>Manipal University, Anna University</p>
 </div>
 </div>
 <hr>
+<br>
+<div style=" padding: 15px;
+    text-align: center;
+    border: 2px solid #ccc;">
+{{ site.description }}
+</div>
 <br>
 <a href="https://twitter.com/pruzoth?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @pruzoth</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
