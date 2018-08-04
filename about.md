@@ -16,18 +16,17 @@ description: "about me"
     float: left;
     overflow: auto;
      width: auto;
-     padding: 15px;">
+     ">
   
 <a target="_blank" href="{{ file.path }}">
 
-  <img src="https://raw.githubusercontent.com/purushothblog/purushoth/gh-pages/about_pic.JPG" alt="avatar" width="330" height="350 ">
+  <img src="https://raw.githubusercontent.com/purushothblog/purushoth/gh-pages/about_pic.JPG" alt="avatar" width="330" height="400 ">
 </a>
     <div style=" padding: 15px;
     text-align: center" ><b>Purushothaman</b>
 </div></div>
 
-<div style = " margin: 5px;
-    
+<div style = "     
     overflow: auto;
      width: 330;
      padding: 15px;
