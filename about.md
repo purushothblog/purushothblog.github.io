@@ -5,12 +5,34 @@ permalink: /about/
 description: "about me"
 ---
 
+<div style = " margin: 5px;
+    border: 1px solid #ccc;
+    overflow: auto;
+     width: auto;
+     padding: 15px;">
+  
+  <div style = " margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    overflow: auto;
+     width: auto;
+     padding: 15px;">
+  
+<a target="_blank" href="{{ file.path }}">
 
+  <img src="https://raw.githubusercontent.com/purushothblog/purushoth/gh-pages/about_pic.JPG" alt="avatar" width="330" height="350 ">
+</a>
+    <div style=" padding: 15px;
+    text-align: center" ><b>Purushothaman</b>
+</div></div>
 
-<div width="100%" height="auto" align="center">
-<img src="https://raw.githubusercontent.com/purushothblog/purushoth/gh-pages/about_pic.JPG" alt="avatar" ></div>
-<div width="100%" height="auto">
-	<br>
+<div style = " margin: 5px;
+    
+    overflow: auto;
+     width: 330;
+     padding: 15px;
+     text-align: justify;
+    text-justify: inter-word;">
 	<p><b>Intro:</b></p>
 	<p>
 Hello, The Name's Purushothaman. I am tireless seeker of knowledge and occassional tourer and coincidently a banker!.
@@ -27,8 +49,8 @@ Alma mater: </b>Manipal University, Anna University</p>
 </p>
 
 </div>
+</div>
 <hr>
-Social Media:
-
+<br>
 <a href="https://twitter.com/pruzoth?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @pruzoth</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
