@@ -51,6 +51,12 @@ defaults:
     values:
       image: true
 
+  -
+    scope:
+      path: "assets/friend"
+    values:
+      fri: true
+
 #defaults:
 #  - scope:
 #      path: "assets/img"
