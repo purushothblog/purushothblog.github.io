@@ -3,7 +3,6 @@ layout: page
 title: Friends
 permalink: /friends/
 description: Guys, made my days better!
-path: "/assets/friend/"
 ---
 
 {% for file in site.static_files %}
