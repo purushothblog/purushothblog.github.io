@@ -4,5 +4,5 @@
 
 layout: home
 author: Purushothaman Pachiappan
-description: Hello, My name is Purushothaman Pachiappan. Currently, I live in Cochin, Kerala.
+description: Purushothaman Pachiappan
 ---
