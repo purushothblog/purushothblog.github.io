@@ -1,6 +1,6 @@
 ---
 layout: page
-description: Hotel and Rooms in Tamil Nadu
+description: Hotels and Rooms available in Tamil Nadu
 permalink: /hotel/tamilnadu/
 ---
 
