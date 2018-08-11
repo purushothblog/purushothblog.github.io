@@ -1,0 +1,19 @@
+- name: "Andhra Pradesh"
+  url: "/assets/state/andhra_pradesh.jpg"
+  href: "hotels/andhra_pradesh"
+
+- name: "Karnataka"
+  url: "/assets/state/Karnataka.jpg"
+  href: "hotels/karnataka" 
+
+- name: "Kerala"
+  url: "/assets/state/kerala.jpg"
+  href: "hotels/kerala"
+
+- name: "Tamil Nadu"
+  url: "/assets/state/tamil_nadu.jpg"
+  href: "hotels/tamilnadu"
+
+- name: "Telengana"
+  url: "/assets/state/telengana.jpg"
+  href: "hotels/telengana"
