@@ -1,6 +1,6 @@
 ---
 layout: page
-description: Pick a State
+description: Hotel and Rooms in Tamil Nadu
 permalink: /hotel/tamilnadu/
 ---
 
