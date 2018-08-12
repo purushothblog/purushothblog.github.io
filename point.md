@@ -15,7 +15,7 @@ description: Hotels and Rooms available
     float: left;
     overflow: auto;
      width: auto;">
-<a target="_blank" href="/hotel/">
+<a href="/hotel/">
   <img src="/../assets/traveller_point/hotel.jpg" alt="Hotels" width="340" height="250 ">
 </a>
 <div style=" padding: 15px;

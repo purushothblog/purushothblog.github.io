@@ -12,7 +12,7 @@ permalink: /hotel/
     float: left;
     overflow: auto;
      width: auto;">
-<a target="_blank" href="/{{ state.href }}/">
+<a href="/{{ state.href }}/">
   <img src="/..{{ state.url}}" alt="{{ state.name }}" width="340" height="250 ">
 </a>
 <div style=" padding: 15px;

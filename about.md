@@ -60,3 +60,9 @@ Alma mater: </b>Manipal University, Anna University</p>
 <br>
 <a href="https://twitter.com/pruzoth?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @pruzoth</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="pruzoth"><a class="LI-simple-link" href='https://in.linkedin.com/in/pruzoth?trk=profile-badge'>Purushothaman P</a></div>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="pruzoth"><a class="LI-simple-link" href='https://in.linkedin.com/in/pruzoth?trk=profile-badge'>Purushothaman P</a></div>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="pruzoth"><a class="LI-simple-link" href='https://in.linkedin.com/in/pruzoth?trk=profile-badge'>Purushothaman P</a></div>

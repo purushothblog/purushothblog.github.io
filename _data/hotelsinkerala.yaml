@@ -1,0 +1,8 @@
+- name: "Hotel The Lake Inn"
+  url: "/assets/hotel/lakeinnview.PNG"
+  room: "/assets/hotel/lakeinnroom.PNG"
+  map: "assets/hotel/lakeinnmap.PNG"
+  key: "Hotels in Thodupuzha"
+  href: "hotel"
+  page: "lakeinnview"
+
