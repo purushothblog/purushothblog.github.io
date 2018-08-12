@@ -5,7 +5,7 @@ permalink: /hotel/lakeinnview/
 ---
 
 
-<center><b><h2>Contact Mr. Jayakumar - 94009 49369</h2></b> </center>
+<center><b><h2>Contact Mr. Jaya Prakash - 94009 49369</h2></b> </center>
 <div style = " margin: 5px;
   padding: 8px;
     border: 1px solid #ccc;
