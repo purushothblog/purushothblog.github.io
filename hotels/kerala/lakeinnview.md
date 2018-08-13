@@ -1,7 +1,7 @@
 ---
 layout: page
-description: Hotels The Lake View Inn, Thodupuzha
-permalink: /hotel/lakeinnview/
+description: Hotel The Lake Inn, Thodupuzha
+permalink: /hotel/lakeinn/
 ---
 
 
