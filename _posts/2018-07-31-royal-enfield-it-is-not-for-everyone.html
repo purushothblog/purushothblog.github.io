@@ -117,3 +117,14 @@ For a Comman man, <b>Old Enfield Bullet</b> is just a rusty metal along with bor
     width: 100%;
     height: 100%;
     border: 0;" src="https://raw.githubusercontent.com/purushothblog/purushoth/gh-pages/assets/Bullet/bucephallus.jpg" alt="Bullet Metal Horse" width="740" height="450" ></div>
+
+<h3></h3>
+
+<div class="Previous-next">
+  {% if page.previous.url %}
+    <a class="previous" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+  {% endif %}
+</div>
