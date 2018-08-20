@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Travellers Point
 permalink: /traveller/
 description: Hotels and Rooms available 
 ---
