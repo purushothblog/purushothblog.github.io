@@ -22,7 +22,7 @@ author: "Purushothaman Pachiappan"
   
 <a target="_blank" href="{{ file.path }}">
 
-  <img src="https://raw.githubusercontent.com/purushothblog/purushoth/gh-pages/about_pic.JPG" alt="avatar" width="330" height="400 ">
+  <img src="/about.jpg" alt="avatar" width="330" height="400 ">
 </a>
     <div style=" padding: 15px;
     text-align: center" ><b>Purushothaman</b>
@@ -51,11 +51,10 @@ Alma mater: </b>Manipal University, Anna University</p>
 
 </div>
 </div>
-<hr>
 <br>
+
 <div style=" padding: 15px;
     text-align: center;
     border: 2px solid #ccc;">
 {{ site.description }}
 </div>
-<br>
