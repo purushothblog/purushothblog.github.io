@@ -5,8 +5,7 @@ permalink: /gallery/
 description: Diaries of My Life
 ---
 
-{% for file in site.static_files %}
-{% if file.image %}
+
 <div style = " margin: 5px;
   padding: 8px;
     border: 1px solid #ccc;
@@ -20,8 +19,7 @@ description: Diaries of My Life
     text-align: center" ><b>{{ file.basename }}</b>
 </div>
 </div>
-{% endif %}
-{% endfor %}
+
 
 
 <br>

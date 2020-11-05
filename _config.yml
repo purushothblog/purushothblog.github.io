@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Purushothaman
-email: pruzoth[at]gmail[dot]com
+email: 
 author: Purushothaman Pachiappan
 description: >- # this means to ignore newlines until "baseurl:"
-  Purushothaman Pachiappan. I am a Professional Banker and Passionate Full Stack developer. I blog about banking, technologies, tour travel and something nasty!.
+  Purushothaman Pachiappan. I am a banker by profession. I blog about basic finance tips.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://purushoth.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pruzoth
