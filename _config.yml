@@ -17,7 +17,7 @@ title: Purushothaman
 email: 
 author: Purushothaman Pachiappan
 description: >- # this means to ignore newlines until "baseurl:"
-  Purushothaman Pachiappan. I am a banker by profession. I blog about basic finance tips.
+  I blog about banking, insurance and investment tips.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://purushoth.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pruzoth

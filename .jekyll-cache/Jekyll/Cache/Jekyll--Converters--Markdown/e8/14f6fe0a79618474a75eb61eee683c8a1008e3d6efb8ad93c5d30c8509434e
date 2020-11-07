@@ -1,154 +1,131 @@
----
-layout: page
-title: Gallery
-permalink: /gallery/
-description: Diaries of My Life
----
-
-
-<div style = " margin: 5px;
+I"=<div style=" margin: 5px;
   padding: 8px;
     border: 1px solid #ccc;
     float: left;
     overflow: auto;
      width: auto;">
 <a target="_blank" href="https://drive.google.com/file/d/1vzmH9I44u-iCxIw8LdEoNO5PN6vD-smj/view?usp=sharing">
-  <img src="https://drive.google.com/uc?export=view&id=1vzmH9I44u-iCxIw8LdEoNO5PN6vD-smj" alt="TEDx" width="340" height="250 ">
+  <img src="https://drive.google.com/uc?export=view&amp;id=1vzmH9I44u-iCxIw8LdEoNO5PN6vD-smj" alt="TEDx" width="340" height="250 " />
 </a>
 <div style=" padding: 15px;
-    text-align: center;
-    background-color: #ccc" ><b>TEDx @ IIT, Chennai</b>
+    text-align: center"><b>TEDx @ IIT, Chennai</b>
 </div>
 </div>
 
-<div style = " margin: 5px;
+<div style=" margin: 5px;
   padding: 8px;
     border: 1px solid #ccc;
     float: left;
     overflow: auto;
      width: auto;">
 <a target="_blank" href="https://drive.google.com/file/d/1JzEj0FHBkjHDU-w6ql9yo8J9_tHsmCZw/view?usp=sharing">
-  <img src="https://drive.google.com/uc?export=view&id=1JzEj0FHBkjHDU-w6ql9yo8J9_tHsmCZw" alt="Darjelling" width="340" height="250 ">
+  <img src="https://drive.google.com/uc?export=view&amp;id=1JzEj0FHBkjHDU-w6ql9yo8J9_tHsmCZw" alt="Darjelling" width="340" height="250 " />
 </a>
 <div style=" padding: 15px;
-    text-align: center;
-    background-color: #ccc" ><b>Darjelling</b>
+    text-align: center"><b>Darjelling</b>
 </div>
 </div>
 
-<div style = " margin: 5px;
+<div style=" margin: 5px;
   padding: 8px;
     border: 1px solid #ccc;
     float: left;
     overflow: auto;
      width: auto;">
 <a target="_blank" href="https://drive.google.com/file/d/1R5oR-GOrRdnwU8Ms-fuKzRchMTKjZeKz/view?usp=sharing">
-  <img src="https://drive.google.com/uc?export=view&id=1R5oR-GOrRdnwU8Ms-fuKzRchMTKjZeKz" alt="Chikmangalur" width="340" height="250 ">
+  <img src="https://drive.google.com/uc?export=view&amp;id=1R5oR-GOrRdnwU8Ms-fuKzRchMTKjZeKz" alt="Chikmangalur" width="340" height="250 " />
 </a>
 <div style=" padding: 15px;
-    text-align: center;
-    background-color: #ccc" ><b>Chikmangalur</b>
+    text-align: center"><b>Chikmangalur</b>
 </div>
 </div>
 
-<div style = " margin: 5px;
+<div style=" margin: 5px;
   padding: 8px;
     border: 1px solid #ccc;
     float: left;
     overflow: auto;
      width: auto;">
 <a target="_blank" href="https://drive.google.com/file/d/1EuebilqQ5IF-bG9OnGfNG05K2ZoR4JFB/view?usp=sharing">
-  <img src="https://drive.google.com/uc?export=view&id=1EuebilqQ5IF-bG9OnGfNG05K2ZoR4JFB" alt="Bahubali" width="340" height="250 ">
+  <img src="https://drive.google.com/uc?export=view&amp;id=1EuebilqQ5IF-bG9OnGfNG05K2ZoR4JFB" alt="Bahubali" width="340" height="250 " />
 </a>
 <div style=" padding: 15px;
-    text-align: center;
-    background-color: #ccc" ><b>Bahubali Statue</b>
+    text-align: center"><b>Bahubali Statue</b>
 </div>
 </div>
 
-<div style = " margin: 5px;
+<div style=" margin: 5px;
   padding: 8px;
     border: 1px solid #ccc;
     float: left;
     overflow: auto;
      width: auto;">
 <a target="_blank" href="https://drive.google.com/file/d/1bjIfIOn0ln0npxYn09h5LgTUZFy-GO3j/view?usp=sharing">
-  <img src="https://drive.google.com/uc?export=view&id=1bjIfIOn0ln0npxYn09h5LgTUZFy-GO3j" alt="Chunchi Falls" width="340" height="250 ">
+  <img src="https://drive.google.com/uc?export=view&amp;id=1bjIfIOn0ln0npxYn09h5LgTUZFy-GO3j" alt="Chunchi Falls" width="340" height="250 " />
 </a>
 <div style=" padding: 15px;
-    text-align: center;
-    background-color: #ccc" ><b>Chunchi Falls</b>
+    text-align: center"><b>Chunchi Falls</b>
 </div>
 </div>
 
-<div style = " margin: 5px;
+<div style=" margin: 5px;
   padding: 8px;
     border: 1px solid #ccc;
     float: left;
     overflow: auto;
      width: auto;">
 <a target="_blank" href="https://drive.google.com/file/d/153QaKlHXfPHfaeKpvPvGyOmeTYoNyIZ0/view?usp=sharing">
-  <img src="https://drive.google.com/uc?export=view&id=153QaKlHXfPHfaeKpvPvGyOmeTYoNyIZ0" alt="College Presentation" width="340" height="250 ">
+  <img src="https://drive.google.com/uc?export=view&amp;id=153QaKlHXfPHfaeKpvPvGyOmeTYoNyIZ0" alt="College Presentation" width="340" height="250 " />
 </a>
 <div style=" padding: 15px;
-    text-align: center;
-    background-color: #ccc" ><b>College Presentation</b>
+    text-align: center"><b>College Presentation</b>
 </div>
 </div>
 
-<div style = " margin: 5px;
+<div style=" margin: 5px;
   padding: 8px;
     border: 1px solid #ccc;
     float: left;
     overflow: auto;
      width: auto;">
 <a target="_blank" href="https://drive.google.com/file/d/1Lq1oGGvquYQOHS1JYqseQ_EEPRb_riDP/view?usp=sharing">
-  <img src="https://drive.google.com/uc?export=view&id=1Lq1oGGvquYQOHS1JYqseQ_EEPRb_riDP" alt="Chennai" width="340" height="250 ">
+  <img src="https://drive.google.com/uc?export=view&amp;id=1Lq1oGGvquYQOHS1JYqseQ_EEPRb_riDP" alt="Chennai" width="340" height="250 " />
 </a>
 <div style=" padding: 15px;
-    text-align: center;
-    background-color: #ccc" ><b>Fun @ Chennai</b>
+    text-align: center"><b>Fun @ Chennai</b>
 </div>
 </div>
 
-<div style = " margin: 5px;
+<div style=" margin: 5px;
   padding: 8px;
     border: 1px solid #ccc;
     float: left;
     overflow: auto;
      width: auto;">
 <a target="_blank" href="https://drive.google.com/file/d/1yiXW8ztJdIJa3WYC0eroV9DJ3uuLLEwt/view?usp=sharing">
-  <img src="https://drive.google.com/uc?export=view&id=1yiXW8ztJdIJa3WYC0eroV9DJ3uuLLEwt" alt="Gangtok" width="340" height="250 ">
+  <img src="https://drive.google.com/uc?export=view&amp;id=1yiXW8ztJdIJa3WYC0eroV9DJ3uuLLEwt" alt="Gangtok" width="340" height="250 " />
 </a>
 <div style=" padding: 15px;
-    text-align: center;
-    background-color: #ccc" ><b>Gangtok</b>
+    text-align: center"><b>Gangtok</b>
 </div>
 </div>
 
-
-
-<div style = " margin: 5px;
+<div style=" margin: 5px;
   padding: 8px;
     border: 1px solid #ccc;
     float: left;
     overflow: auto;
      width: auto;">
 <a target="_blank" href="https://drive.google.com/file/d/1XwqZASUWuUvWWaesE6wJf9nNaeXnGHpX/view?usp=sharing">
-  <img src="https://drive.google.com/uc?export=view&id=1XwqZASUWuUvWWaesE6wJf9nNaeXnGHpX" alt="Haptics Event" width="340" height="250 ">
+  <img src="https://drive.google.com/uc?export=view&amp;id=1XwqZASUWuUvWWaesE6wJf9nNaeXnGHpX" alt="Haptics Event" width="340" height="250 " />
 </a>
 <div style=" padding: 15px;
     text-align: center;
-    background-color: #ccc" ><b>Haptics Event, Hyderabad</b>
+    background-color: #ccc"><b>Haptics Event, Hyderabad</b>
 </div>
 </div>
 
-
-
-
-
-
-<br>
+<p><br /></p>
 <table>
   <tr>
     <td>
@@ -156,3 +133,4 @@ description: Diaries of My Life
 
 
 </tr></table>
+:ET

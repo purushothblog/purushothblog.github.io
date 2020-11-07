@@ -38,12 +38,17 @@ author: "Purushothaman Pachiappan"
 <h1><b>Purushothaman Pachiappan</b></h1>
 <h4><b>Banker and Traveller</b></h4>
 <h5><b>Assistant Manager in Public Sector Bank</b></h5>
+<h5><b><i>Former Full Stack Developer</i></b></h5>
 
 <p>I spend most of my time on terminal, bike-riding & playstation</p>
 
 <p><b>Educational Qualificaion:</b> </p>
-<p>
-M.Tech in Computer Science and Engineering and Post Graduation Diploma in Banking and Finance</p>
+<ul>
+  <li>M.Tech in Computer Science and Engineering</li>
+  <li>Post Graduation Diploma in Banking and Finance</li>
+  <li>Junior Associate of Indian Institute of Bankers</li>
+</ul>
+
 <p><b>
 Alma mater: </b>Manipal University, Anna University</p>
 
