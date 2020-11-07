@@ -12,11 +12,11 @@ description: Diaries of My Life
     float: left;
     overflow: auto;
      width: auto;">
-<a target="_blank" href="{{ file.path }}">
-  <img src="../{{ file.path }}" alt="{{ file.name }}" width="340" height="250 ">
+<a target="_blank" href="">
+  <img src="" alt="" width="340" height="250 ">
 </a>
 <div style=" padding: 15px;
-    text-align: center" ><b>{{ file.basename }}</b>
+    text-align: center" ><b>name</b>
 </div>
 </div>
 
