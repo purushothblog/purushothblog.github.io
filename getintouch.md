@@ -9,21 +9,23 @@ permalink: /contact/
   action="https://formspree.io/pruzoth@gmail.com"
   method="POST"
   >
-  <h3><p><label >
+ <h3><p><center><label >
     Name: 
     <input type="text" name="name" placeholder="Enter your name">
-  </label></p>
+  </label> </center></p>
   <p>
-  <label>
-   Email:
-    <input type="email" name="_replyto" placeholder="Enter your Email">
-  </label></p>
+  <center><label>
+   Email: 
+    <input type="email" name="_replyto" placeholder="Enter your Email" >
+  </label></center></p>
   <p>
+    <br>
   <label>
-    Message:
-    <textarea name="message" placeholder="Write your Message"></textarea>
+    <center>Message:</center>
+    <center><textarea name="message" placeholder="Write your Message" rows="6" cols="45"></textarea></center>
   </label>
 </p>
-  <input type="submit" value="Send">
+<br>
+  <center><input type="submit" value="Send"></center>
 </h3>
 </form>
