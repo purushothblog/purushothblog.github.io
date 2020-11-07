@@ -19,7 +19,7 @@ author: Purushothaman Pachiappan
 description: >- # this means to ignore newlines until "baseurl:"
   I blog about banking, insurance and investment tips.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://purushoth.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://purushoth.online/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pruzoth
 linkedin_username: pruzoth
 
