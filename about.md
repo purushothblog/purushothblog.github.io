@@ -46,7 +46,7 @@ author: "Purushothaman Pachiappan"
 <ul>
   <li>M.Tech in Computer Science and Engineering</li>
   <li>Post Graduation Diploma in Banking and Finance</li>
-  <li>Junior Associate of Indian Institute of Bankers</li>
+  <li>Certified Associate of Indian Institute of Bankers</li>
 </ul>
 
 <p><b>
@@ -55,4 +55,10 @@ Alma mater: </b>Manipal University, Anna University</p>
 
 </div>
 </div>
+
+<ul>
+    {% for item in site.data.samplelist[page.sidebar] %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+</ul>
 

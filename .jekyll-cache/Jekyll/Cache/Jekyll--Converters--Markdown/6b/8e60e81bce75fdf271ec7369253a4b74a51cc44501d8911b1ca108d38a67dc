@@ -1,4 +1,4 @@
-I"N<form action="https://formspree.io/pruzoth@gmail.com" method="POST">
+I"O<form action="https://formspree.io/pruzoth@gmail.com" method="POST">
  <h3><p><center><label>
     Name: 
     <input type="text" name="name" placeholder="Enter your name" />
@@ -19,4 +19,5 @@
   <center><input type="submit" value="Send" /></center>
 </h3>
 </form>
+
 :ET
