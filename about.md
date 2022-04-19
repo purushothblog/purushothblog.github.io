@@ -36,9 +36,9 @@ author: "Purushothaman Pachiappan"
     text-justify: inter-word;">
 
 <h1><b>Purushothaman Pachiappan</b></h1>
-<h4><b>Banker and Traveller</b></h4>
-<h5><b>Assistant Manager in Public Sector Bank</b></h5>
-<h5><b><i>Former Full Stack Developer</i></b></h5>
+<h4><b>Banker, Athlete and Traveller</b></h4>
+<h5><b>Manager in Public Sector Bank</b></h5>
+<h5><b><i>Former Full Stack Developer (2012-2015), Former Oilman(2015)</i></b></h5>
 
 <p>I spend most of my time on terminal, bike-riding & playstation</p>
 
